@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mis Links TV</title>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; background: #121212; color: white; padding-top: 50px; }
+        h1 { margin-bottom: 30px; }
+        a { display: block; margin: 15px; padding: 20px; background: #333; color: white; text-decoration: none; border-radius: 10px; width: 300px; text-align: center; font-size: 18px; }
+        a:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <h1>Mis Favoritos</h1>
+    <a href="https://ok.ru/video/7527257344680">TIEMPO DE GITANOS</a>
+    <!-- Puedes añadir más líneas aquí abajo siguiendo el mismo formato -->
+</body>
+</html>
